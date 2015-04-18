@@ -1,0 +1,20 @@
+17:16:19.222 INFO  - Processing command line option -hwspec D:/xilinx_test/lab1_324/lab1_324.sdk/SDK/SDK_Export/hw/system.xml. 
+17:41:33.564 INFO  - Processor reset is completed for ps7_cortexa9_0 
+17:41:33.673 INFO  - PS initialization will be done as it is not done before. 
+17:41:33.673 INFO  - Running PS initialization.... 
+17:41:34.172 INFO  - ps7_init is completed. 
+17:41:34.281 INFO  - PS Initialization is complete. 
+17:46:32.769 INFO  - Processor reset is completed for ps7_cortexa9_0 
+17:47:09.456 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:06:27.945 INFO  - Processing command line option -hwspec D:/xilinx_test/lab1_324/lab1_324.sdk/SDK/SDK_Export/hw/system.xml. 
+11:06:28.811 INFO  - The hardware specification for project 'hw_platform_0' is different from D:/xilinx_test/lab1_324/lab1_324.sdk/SDK/SDK_Export/hw/system.xml. 
+11:06:28.859 INFO  - Copied contents of D:/xilinx_test/lab1_324/lab1_324.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+11:06:28.944 INFO  - Copied contents of D:\xilinx_test\lab1_324\lab1_324.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+11:06:28.945 INFO  - Copied contents of D:\xilinx_test\lab1_324\lab1_324.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+11:06:28.992 INFO  - Copied contents of D:\xilinx_test\lab1_324\lab1_324.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+11:06:28.994 INFO  - Copied contents of D:\xilinx_test\lab1_324\lab1_324.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+11:06:28.995 INFO  - Copied contents of D:\xilinx_test\lab1_324\lab1_324.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+11:06:29.178 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+11:06:32.461 INFO  - Updating hardware inferred compiler options for 324_test. 
+11:06:32.468 INFO  - Clearing existing target manager status. 
+11:14:35.152 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
