@@ -81,7 +81,7 @@ int main()
         test_memory_range(&memory_ranges[i]);
     }
 
-    print("Memory Test Application Complete--\n\r");
+    print("----lab1:324-LiBin----\n\r");
 
     return 0;
 }
