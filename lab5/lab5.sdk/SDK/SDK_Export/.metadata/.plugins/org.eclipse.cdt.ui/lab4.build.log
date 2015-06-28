@@ -1,0 +1,6 @@
+10:33:18 **** Auto Build of configuration Debug for project lab4 ****
+make all 
+make: Nothing to be done for `all'.
+
+10:33:20 Build Finished (took 2s.383ms)
+
